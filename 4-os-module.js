@@ -13,7 +13,7 @@ const currentOS = {
     release: os.release(),
     totalMem:os.totalmem(),
     freeMem:os.freemem(),
-    uptime:os.uptime,
+    upTime:os.uptime,
 
 }
 
