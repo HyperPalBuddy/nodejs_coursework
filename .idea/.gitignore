@@ -8,9 +8,10 @@
 /dataSources/
 /dataSources.local.xml
 
-
 /discord.xml
 /jsLibraryMappings.xml
 /modules.xml
 /nodejs.iml
 /vcs.xml
+node_modules
+
