@@ -1,5 +1,6 @@
 const {readFileSync, writeFileSync} = require('fs')
 //Reads Content from file
+console.log("Start")
 const first = readFileSync("./content/first.txt", "utf8")
 const second = readFileSync("./content/second.txt", "utf8")
 //Prints Content of both files
@@ -11,4 +12,6 @@ writeFileSync(
     `The result of writeFileSync: \n${first} \n${second}`,
     {flag:'a'} //used to append to the file instead of writing it new
 )
-console.=log('Written File to writeFile.txt')
+console.log("Done With Task")
+console.log('Written File to writeFile.txt')
+console.log("Starting Next task")

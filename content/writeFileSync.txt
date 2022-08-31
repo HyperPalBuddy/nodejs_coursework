@@ -4,4 +4,6 @@ This is second text fileThe result of writeFileSync:
 This is first text file 
 This is second text fileThe result of writeFileSync: 
 This is first text file 
+This is second text fileThe result of writeFileSync: 
+This is first text file 
 This is second text file
